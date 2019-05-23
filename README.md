@@ -33,6 +33,7 @@ For more information go to: www.iata.org/datathon
 
 # Q&A
 ![Q&A](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide12.JPG?raw=true)
+<br>
 **Q:** Will the set of info together with data be printed (I assume “shared”) on Github?<br> 
 >**A:** Data sets will be available in [GitHub](https://github.com/IATAdatathon/Athens19) with the corresponding specifications<br>
 
