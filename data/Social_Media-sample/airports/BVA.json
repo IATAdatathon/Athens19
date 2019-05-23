@@ -1,0 +1,372 @@
+[
+{
+    "account": "aerportbeauvais",
+    "keyword": "BVA",
+    "tweet_url": "",
+    "media_url": "http://pbs.twimg.com/media/B7pn78dIQAAbbDP.jpg",
+    "media_file": "BVA_556871792204455936.jpg",
+    "created_at": "Sun Jan 18 17:52:36 +0000 2015",
+    "id": 556871792204455936,
+    "id_str": "556871792204455936",
+    "full_text": "ANNOUNCEMENT: Wizz Air will announce 9th destination from #ParisBVA Monday. http://t.co/2hpIWrFl9P",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        98
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ParisBVA",
+                "indices": [
+                    58,
+                    67
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 556871783471923200,
+                "id_str": "556871783471923200",
+                "indices": [
+                    76,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/B7pn78dIQAAbbDP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B7pn78dIQAAbbDP.jpg",
+                "url": "http://t.co/2hpIWrFl9P",
+                "display_url": "pic.twitter.com/2hpIWrFl9P",
+                "expanded_url": "https://twitter.com/aerportbeauvais/status/556871792204455936/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 682,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 682,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 556871783471923200,
+                "id_str": "556871783471923200",
+                "indices": [
+                    76,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/B7pn78dIQAAbbDP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B7pn78dIQAAbbDP.jpg",
+                "url": "http://t.co/2hpIWrFl9P",
+                "display_url": "pic.twitter.com/2hpIWrFl9P",
+                "expanded_url": "https://twitter.com/aerportbeauvais/status/556871792204455936/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 682,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 682,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2983330203,
+        "id_str": "2983330203",
+        "name": "A\u00e9roport Beauvais ",
+        "screen_name": "aerportbeauvais",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 96,
+        "friends_count": 8,
+        "listed_count": 2,
+        "created_at": "Sun Jan 18 01:08:18 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": "en-AU",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/556620518246584320/r22il8qf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/556620518246584320/r22il8qf_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2983330203/1421543669",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+},
+{
+    "account": "aerportbeauvais",
+    "keyword": "BVA",
+    "tweet_url": "",
+    "media_url": "http://pbs.twimg.com/media/B7pm-GNCIAAcrfz.jpg",
+    "media_file": "BVA_556870736552665088.jpg",
+    "created_at": "Sun Jan 18 17:48:24 +0000 2015",
+    "id": 556870736552665088,
+    "id_str": "556870736552665088",
+    "full_text": "Fly @Ryanair to/from #Madrid for \u00a371 per person round trip. #ParisBVA #AirTravel http://t.co/BlcYuVYvR9",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        103
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Madrid",
+                "indices": [
+                    21,
+                    28
+                ]
+            },
+            {
+                "text": "ParisBVA",
+                "indices": [
+                    60,
+                    69
+                ]
+            },
+            {
+                "text": "AirTravel",
+                "indices": [
+                    70,
+                    80
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ryanair",
+                "name": "Ryanair",
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    4,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 556870720936878080,
+                "id_str": "556870720936878080",
+                "indices": [
+                    81,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/B7pm-GNCIAAcrfz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B7pm-GNCIAAcrfz.jpg",
+                "url": "http://t.co/BlcYuVYvR9",
+                "display_url": "pic.twitter.com/BlcYuVYvR9",
+                "expanded_url": "https://twitter.com/aerportbeauvais/status/556870736552665088/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1024,
+                        "h": 620,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 620,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 412,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 556870720936878080,
+                "id_str": "556870720936878080",
+                "indices": [
+                    81,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/B7pm-GNCIAAcrfz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B7pm-GNCIAAcrfz.jpg",
+                "url": "http://t.co/BlcYuVYvR9",
+                "display_url": "pic.twitter.com/BlcYuVYvR9",
+                "expanded_url": "https://twitter.com/aerportbeauvais/status/556870736552665088/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1024,
+                        "h": 620,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 620,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 412,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2983330203,
+        "id_str": "2983330203",
+        "name": "A\u00e9roport Beauvais ",
+        "screen_name": "aerportbeauvais",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 96,
+        "friends_count": 8,
+        "listed_count": 2,
+        "created_at": "Sun Jan 18 01:08:18 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": "en-AU",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/556620518246584320/r22il8qf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/556620518246584320/r22il8qf_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2983330203/1421543669",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}]
