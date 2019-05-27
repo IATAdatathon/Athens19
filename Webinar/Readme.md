@@ -11,7 +11,7 @@ IATA Aviation Datathon 2019 focuses on addressing industry challenges and priori
 For more information go to: www.iata.org/datathon 
 
 # ABOUT US
-![ABOUT US](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide2.JPG?raw=true)
+![ABOUT US](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide2.JPG?raw=true)
 
 # AGENDA
 ![AGENDA](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide5.JPG?raw=true)
