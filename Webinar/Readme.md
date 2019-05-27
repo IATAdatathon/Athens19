@@ -3,7 +3,7 @@
 Repository for IATA Datathon in Athens 24th June 2019
 ---
 # INTRODUCTION
-![INTRODUCTION](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide1.JPG?raw=true)
+![INTRODUCTION](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide1.JPG?raw=true)
 
 <p style=""><button name="button" onclick="https://www.eventbrite.com/e/iata-aviation-datathon-registration-60260500780">REGISTER</button></p>
 
@@ -11,28 +11,28 @@ IATA Aviation Datathon 2019 focuses on addressing industry challenges and priori
 For more information go to: www.iata.org/datathon 
 
 # ABOUT US
-![ABOUT US](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide2.JPG?raw=true)
+![ABOUT US](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide2.JPG?raw=true)
 
 # AGENDA
-![AGENDA](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide5.JPG?raw=true)
+![AGENDA](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide5.JPG?raw=true)
 
 # CHALLENGES
-![CHALLENGES](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide6.JPG?raw=true)
+![CHALLENGES](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide6.JPG?raw=true)
 
-![CHALLENGE1](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide7.JPG?raw=true)
+![CHALLENGE1](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide7.JPG?raw=true)
 
-![CHALLENGE2](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide8.JPG?raw=true)
+![CHALLENGE2](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide8.JPG?raw=true)
 
-![CHALLENGE3](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide9.JPG?raw=true)
+![CHALLENGE3](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide9.JPG?raw=true)
 
 # JURY
-![JURY](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide10.JPG?raw=true)
+![JURY](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide10.JPG?raw=true)
 
 # PRIZES
-![PRIZES](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide11.JPG?raw=true)
+![PRIZES](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide11.JPG?raw=true)
 
 # Q&A
-![Q&A](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide12.JPG?raw=true)
+![Q&A](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide12.JPG?raw=true)
 <br>
 **Q:** Will the set of info together with data be printed (I assume “shared”) on Github?<br> 
 >**A:** Data sets will be available in [GitHub](https://github.com/IATAdatathon/Athens19) with the corresponding specifications<br>
@@ -67,7 +67,7 @@ For more information go to: www.iata.org/datathon
 **Q:** For the five-minute presentation – who is the audience? Technical data scientist or business people?<br>
 >**A:** (response coming soon)<br>
 
-![THANK YOU](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide13.JPG?raw=true)
+![THANK YOU](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide13.JPG?raw=true)
 
 
 
