@@ -3,7 +3,7 @@
 Repository for IATA Datathon in Athens 24th June 2019
 ---
 # INTRODUCTION
-![INTRODUCTION](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/Slide1.JPG?raw=true)
+![INTRODUCTION](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide1.JPG?raw=true)
 
 <p style=""><button name="button" onclick="https://www.eventbrite.com/e/iata-aviation-datathon-registration-60260500780">REGISTER</button></p>
 
