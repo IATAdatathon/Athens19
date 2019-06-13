@@ -48,6 +48,7 @@
 </table>
 
 
+
 ## ARRIVALS / DEPARTURES
 
 <table>
@@ -82,55 +83,55 @@
             <td>aircraft_model_code</td>
             <td>String</td>
             <td>B788</td>
-            <td></td>
+            <td>Operating aircraft model code</td>
         </tr>
         <tr>
             <td>aircraft_model_description</td>
             <td>String</td>
             <td>Boeing 787-8 Dreamliner</td>
-            <td></td>
+            <td>Operating aircraft model</td>
         </tr>
         <tr>
             <td>aircraft_registration</td>
             <td>String</td>
             <td>JA837J</td>
-            <td></td>
+            <td>Operating aircraft registration</td>
         </tr>
         <tr>
             <td>airline_name</td>
             <td>String</td>
             <td>Japan Airlines</td>
-            <td></td>
+            <td>Operating Airline Name</td>
         </tr>
         <tr>
             <td>airline_iata</td>
             <td>String</td>
             <td>JL</td>
-            <td></td>
+            <td>Operating Airline IATA code</td>
         </tr>
         <tr>
             <td>airline_icao</td>
             <td>String</td>
             <td>JAL</td>
-            <td></td>
+            <td>Operating Airline ICAO code</td>
         </tr>
         <tr>
             <td>flight_origin_code_iata</td>
             <td>String</td>
             <td>HND</td>
-            <td></td>
+            <td>Departure airport IATA code</td>
         </tr>
         <tr>
             <td>flight_origin_code_icao</td>
             <td>String</td>
             <td>RJTT</td>
-            <td></td>
+            <td>Departure airport ICAO code</td>
         </tr>
         <tr>
             <td>flight_origin_name</td>
             <td>String</td>
             <td>Tokyo Haneda International Airport</td>
-            <td></td>
+            <td>Departure airport name</td>
         </tr>
         <tr>
             <td>flight_origin_time_offset</td>
@@ -142,19 +143,19 @@
             <td>flight_destination_code_iata</td>
             <td>String</td>
             <td>LHR</td>
-            <td></td>
+            <td>Departure airport IATA code</td>
         </tr>
         <tr>
             <td>flight_destination_code_icao</td>
             <td>String</td>
             <td>EGLL</td>
-            <td></td>
+            <td>Destination airport ICAO code</td>
         </tr>
         <tr>
             <td>flight_destination_name</td>
             <td>String</td>
             <td>London Heathrow Airport</td>
-            <td></td>
+            <td>Destination airport IATA code</td>
         </tr>
         <tr>
             <td>flight_destination_time_offset</td>
@@ -194,4 +195,7 @@
         </tr>
     </tbody>
 </table>
+
+
+
 
