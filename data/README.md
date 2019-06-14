@@ -3,6 +3,9 @@
 
 ## METAR
 
+* https://github.com/IATAdatathon/Athens19/raw/master/data/METAR_all_airports.csv
+CSV file with comma a field separator.
+
 <table border="1" class="dataframe">  
     <thead>    
         <tr style="text-align: right;">
@@ -50,6 +53,12 @@
 
 
 ## ARRIVALS / DEPARTURES
+<br>
+**File(s):** 
+* https://github.com/IATAdatathon/Athens19/raw/master/data/arrivals.zip
+* https://github.com/IATAdatathon/Athens19/raw/master/data/departures.zip
+
+Each file contains its respective CSV file with TAB as field separator (\t).
 
 <table>
     <thead>    
@@ -198,10 +207,10 @@
 
 ## GADM
 
-Dataset is provided in MS Excel (xlsx) format and CSV with "comma" as field delimitter.
+Dataset is provided in MS Excel (xlsx) format and CSV with "comma" as field separator.
 Input data would be Column 2/B (EventTitle) and Column 3/C (Summary).
-Column 4/D ~ Column 25/Y stands for the labels, written in one-hot format./n
-** File(s): ** 
+Column 4/D ~ Column 25/Y stands for the labels, written in one-hot format.<br>
+**File(s):** 
 * https://github.com/IATAdatathon/Athens19/blob/master/data/GADM-sample/Dataset_deidentified_20K.xlsx
 * https://github.com/IATAdatathon/Athens19/blob/master/data/GADM-sample/Dataset_deidentified_20K.csv
 <table>
