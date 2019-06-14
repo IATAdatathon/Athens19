@@ -201,8 +201,9 @@
 Dataset is provided in MS Excel (xlsx) format and CSV with "comma" as field delimitter.
 Input data would be Column 2/B (EventTitle) and Column 3/C (Summary).
 Column 4/D ~ Column 25/Y stands for the labels, written in one-hot format.
-
-
+** File(s):** 
+* https://github.com/IATAdatathon/Athens19/blob/master/data/GADM-sample/Dataset_deidentified_20K.xlsx
+* https://github.com/IATAdatathon/Athens19/blob/master/data/GADM-sample/Dataset_deidentified_20K.csv
 <table>
     <thead>    
         <tr style="text-align: right;">
