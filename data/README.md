@@ -196,6 +196,177 @@
     </tbody>
 </table>
 
+## GADM
+
+Dataset is provided in MS Excel (xlsx) format and CSV with "comma" as field delimitter.
+Input data would be Column 2/B (EventTitle) and Column 3/C (Summary).
+Column 4/D ~ Column 25/Y stands for the labels, written in one-hot format.
+
+
+<table>
+    <thead>    
+        <tr style="text-align: right;">
+            <th>Element</th>
+            <th>Format</th>
+            <th>Example</th>
+            <th>Description</th>
+        </tr>  
+    </thead>  
+    <tbody>
+        <tr>
+            <td>Report ID</td>
+            <td>Integer</td>
+            <td></td>
+            <td>id</td>
+        </tr>
+        <tr>
+            <td>EventTitle</td>
+            <td>String</td>
+            <td></td>
+            <td>Incident Title</td>
+        </tr>
+        <tr>
+            <td>Summary</td>
+            <td>String</td>
+            <td></td>
+            <td>Incident summary</td>
+        </tr>
+        <tr>
+            <td>Altitude Deviation</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Birdstrike</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Deep Landing</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>EGPWS</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Hard/Heavy Landing</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Runway/Taxiway Incursion</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Rejected Take Off</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Stall Warning</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>TCAS</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Unstable Approach</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Cabin Fire/Smoke/Fumes</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Inadvertant Slide Deployment</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Passenger and Cabin Crew Injury</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Rapid Deplaning and Evacuation</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Turbulence</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Brakes and Steering</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Cabin Pressurization</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Engine Surge and Stall</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Engine Shutdown</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Flight Controls</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>ATC Service Standard</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+        <tr>
+            <td>Security</td>
+            <td>boolean</td>
+            <td>0/1</td>
+            <td>Incident Label</td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 
 
