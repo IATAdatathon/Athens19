@@ -53,8 +53,7 @@ CSV file with comma a field separator.
 
 
 ## ARRIVALS / DEPARTURES
-<br>
-**File(s):** 
+__File(s):__<br>
 * https://github.com/IATAdatathon/Athens19/raw/master/data/arrivals.zip
 * https://github.com/IATAdatathon/Athens19/raw/master/data/departures.zip
 
