@@ -380,13 +380,19 @@ Column 4/D ~ Column 25/Y stands for the labels, written in one-hot format.<br>
 
 ## Tweets
 __File(s):__<br>
-* [Google Drive](https://drive.google.com/drive/folders/170Fp1eqXnptDao1Lwd5LRZVRZ-H5ryEu?usp=sharing)
+* [Google Drive](https://drive.google.com/drive/folders/170Fp1eqXnptDao1Lwd5LRZVRZ-H5ryEu?usp=sharing)<br>
 
-Four set of files have been made available:
-        *** Airports: ***
-         ATH, BVA, CDG, CDG-ORY-BVA, EWR, FRA, IBZ, JFK, LAX, LCY, LGA, LGW, LHR, LTN, MIA, PMI, SEN, SFO, SYD
-         (1) Airport Timelines
-         (2) Tweets containing hastagsh (airport name, code or abbreviation)
+Four set of files have been made available:<br>
+**Airports:**<br>
+ATH, BVA, CDG, CDG-ORY-BVA, EWR, FRA, IBZ, JFK, LAX, LCY, LGA, LGW, LHR, LTN, MIA, PMI, SEN, SFO, SYD
+* (1) Airport Timelines
+* (2) Tweets containing hashtags (airport name, code or abbreviation)
+
+**Airlines:**<br>
+AA, AC, AF, AF, AS, B6, BE, DE, DL, EW, FR, IB, JQ, LH, LS, NK, QF, TO, TOM, TT, U2, UA, UX, VA, VY, W6, WN
+* (1) Airlines Timeline
+* (2) Tweets containing hashtags (airline name, code or abbreviation)
+<br>
 
 <table>
     <thead>    
