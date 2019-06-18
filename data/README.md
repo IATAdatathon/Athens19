@@ -1,6 +1,6 @@
 # Datasets Description
 
-<span style="color:red"><h2>IMPORTANT!!! - DATA HAS BEEN MOVED TO [GOOGLE DRIVE](https://drive.google.com/drive/folders/16rVqW4TR3eQJ_1SFy7uBzGYCAGF3657k?usp=sharing)</h2></span>
+<p style="color:red"><h2>IMPORTANT!!! - DATA HAS BEEN MOVED TO GOOGLE DRIVE</h2></span>
 
 ## METAR
 
