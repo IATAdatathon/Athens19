@@ -394,23 +394,4 @@ AA, AC, AF, AF, AS, B6, BE, DE, DL, EW, FR, IB, JQ, LH, LS, NK, QF, TO, TOM, TT,
 * (2) Tweets containing hashtags (airline name, code or abbreviation)
 <br>
 
-table>
-    <thead>    
-        <tr>
-            <th>Element</th>
-            <th>Format</th>
-            <th>Example</th>
-            <th>Description</th>
-        </tr>  
-    </thead>  
-    <tbody>
-        <tr>
-            <td>account</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-
+For mor information about the specifications and data elements, please refer to <a href="https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object" target="_blank">Tweet Object Twittwer API reference</a> 
