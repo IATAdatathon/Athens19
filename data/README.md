@@ -381,15 +381,16 @@ Column 4/D ~ Column 25/Y stands for the labels, written in one-hot format.<br>
 ## Tweets
 __File(s):__<br>
 * [Google Drive](https://drive.google.com/drive/folders/170Fp1eqXnptDao1Lwd5LRZVRZ-H5ryEu?usp=sharing)
-    Four set of files have been made available:
-        _* Airports: *_
+
+Four set of files have been made available:
+        *** Airports: ***
          ATH, BVA, CDG, CDG-ORY-BVA, EWR, FRA, IBZ, JFK, LAX, LCY, LGA, LGW, LHR, LTN, MIA, PMI, SEN, SFO, SYD
          (1) Airport Timelines
          (2) Tweets containing hastagsh (airport name, code or abbreviation)
 
 <table>
     <thead>    
-        <tr style="text-align: right;">
+        <tr>
             <th>Element</th>
             <th>Format</th>
             <th>Example</th>
