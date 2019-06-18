@@ -378,5 +378,262 @@ Column 4/D ~ Column 25/Y stands for the labels, written in one-hot format.<br>
 
 
 
+## Tweets
+__File(s):__<br>
+* [Google Drive](https://drive.google.com/drive/folders/170Fp1eqXnptDao1Lwd5LRZVRZ-H5ryEu?usp=sharing)
+    Four set of files have been made available:
+        _* Airports: *_
+         ATH, BVA, CDG, CDG-ORY-BVA, EWR, FRA, IBZ, JFK, LAX, LCY, LGA, LGW, LHR, LTN, MIA, PMI, SEN, SFO, SYD
+         (1) Airport Timelines
+         (2) Tweets containing hastagsh (airport name, code or abbreviation)
 
+<table>
+    <thead>    
+        <tr style="text-align: right;">
+            <th>Element</th>
+            <th>Format</th>
+            <th>Example</th>
+            <th>Description</th>
+        </tr>  
+    </thead>  
+    <tbody>
+        <tr>
+            <td>account</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>account</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <td>contributors</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>coordinates</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>created_at</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>display_text_range</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>entities</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>extended_entities</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>favorite_count</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>favorited</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>full_text</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>geo</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>id</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>id_str</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>in_reply_to_screen_name</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>in_reply_to_status_id</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>in_reply_to_status_id_str</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>in_reply_to_user_id</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>in_reply_to_user_id_str</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>is_quote_status</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>keyword</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>lang</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>media_file</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>media_url</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>metadata</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>place</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>possibly_sensitive</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>retweet_count</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>retweeted</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>retweeted_status</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>source</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>truncated</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+            
+        <tr>
+            <td>tweet_url</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+            
+        <tr>
+            <td>user</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </tbody>
+</table>
 
