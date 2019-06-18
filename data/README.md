@@ -1,10 +1,10 @@
 # Datasets Description
 
-<p style="color:red"><h2>IMPORTANT!!! - DATA HAS BEEN MOVED TO <a href="https://drive.google.com/drive/folders/16rVqW4TR3eQJ_1SFy7uBzGYCAGF3657k?usp=sharing">GOOGLE DRIVE</a></h2></span>
+<h2 style="color:red">IMPORTANT!!! - DATA HAS BEEN MOVED TO <a href="https://drive.google.com/drive/folders/16rVqW4TR3eQJ_1SFy7uBzGYCAGF3657k?usp=sharing">GOOGLE DRIVE</a></h2>
 
 ## METAR
 
-* https://github.com/IATAdatathon/Athens19/raw/master/data/METAR_all_airports.csv
+* https://drive.google.com/open?id=1RwbiEJ94JjYFh6eeu5m-Uhc7L7iJKolj</br>
 CSV file with comma a field separator.
 
 <table border="1" class="dataframe">  
@@ -55,9 +55,7 @@ CSV file with comma a field separator.
 
 ## ARRIVALS / DEPARTURES
 __File(s):__<br>
-* https://github.com/IATAdatathon/Athens19/raw/master/data/arrivals.zip
-* https://github.com/IATAdatathon/Athens19/raw/master/data/departures.zip
-
+* https://drive.google.com/open?id=1vIp4qaV0Za9HX5TASgo8aanMeRR-rmUb</br>
 Each file contains its respective CSV file with TAB as field separator (\t).
 
 <table>
@@ -211,8 +209,7 @@ Dataset is provided in MS Excel (xlsx) format and CSV with "comma" as field sepa
 Input data would be Column 2/B (EventTitle) and Column 3/C (Summary).
 Column 4/D ~ Column 25/Y stands for the labels, written in one-hot format.<br>
 **File(s):** 
-* https://github.com/IATAdatathon/Athens19/blob/master/data/GADM-sample/Dataset_deidentified_20K.xlsx
-* https://github.com/IATAdatathon/Athens19/blob/master/data/GADM-sample/Dataset_deidentified_20K.csv
+* https://drive.google.com/open?id=1gS-lx-_OXt4us2qvFzAsZkx5FK02WVgs</br>
 <table>
     <thead>    
         <tr style="text-align: right;">
