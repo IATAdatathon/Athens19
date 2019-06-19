@@ -248,9 +248,7 @@ If departure and arrival information is not available. Flight is considered Canc
         </tr>
     </tbody>
 </table>
-## Depatures File
-<img src="https://github.com/IATAdatathon/Athens19/blob/master/data/imgs/Departures_Departure_Status.png?raw=true" alt="Departure Status in Departures File" style="width:300px;height:300px;">
-<img src="https://github.com/IATAdatathon/Athens19/blob/master/data/imgs/Departures_Arrival_Status.png?raw=true" alt="Arrival Status in Departures File" style="width:50%;height:50%;">
+<img src="https://github.com/IATAdatathon/Athens19/blob/master/data/imgs/graphs.PNG?raw=true" alt="">
 
 
 
