@@ -191,17 +191,66 @@ Each file contains its respective CSV file with TAB as field separator (\t).
         <tr>
             <td>flight_arrival_real</td>
             <td>Integer</td>
-            <td>1558329002.0</td>
+            <td>1558329002</td>
             <td>actual arrival time in seconds since 1970-01-01 00:00</td>
         </tr>
         <tr>
             <td>flight_duaration</td>
             <td>Integer</td>
-            <td>41940.0</td>
+            <td>41940</td>
             <td>Flight duration in seconds</td>
+        </tr>
+        <tr>
+            <td>departure_status</td>
+            <td>string</td>
+            <td>delayed</td>
+            <td>NEW in v2. (Real-Scheduled). See reference table below</td>
+        </tr>
+        <tr>
+            <td>arrival_status</td>
+            <td>string</td>
+            <td>ontime</td>
+            <td>NEW in v2. (Real-Scheduled). See reference table below</td>
+        </tr>
+
+    </tbody>
+</table>
+
+We have added version 2 (v2) for arrivals and departures. This new version contains the respective status for departures and arrivals. 
+If departure and arrival information is not available. Flight is considered Cancelled for this exercise. Otherwise we are measuring the difference between actual(real) times and scheduled to label as per following table:
+<table>
+    <thead>
+        <tr style="text-align: right;">
+            <th>Time Difference(minutes)</th>
+            <th>Label</th>
+        </tr>  
+    </thead>  
+    <tbody>
+        <tr>
+            <td> < 0 mins</td>
+            <td>early departure/arrival</td>
+        </tr>
+        <tr>
+            <td>between =>0 and <=30 mins</td>
+            <td>ontime</td>
+        </tr>
+        <tr>
+            <td>between >30 and <=60 mins</td>
+            <td>delayed</td>
+        </tr>
+        <tr>
+            <td>between >60 and <=180 mins</td>
+            <td>long delayed</td>
+        </tr>
+        <tr>
+            <td>between >180</td>
+            <td>very long delayed</td>
         </tr>
     </tbody>
 </table>
+    
+
+
 
 ## GADM
 
