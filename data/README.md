@@ -426,7 +426,7 @@ Column 4/D ~ Column 25/Y stands for the labels, written in one-hot format.<br>
 
 
 ## Tweets
-__IMPORTANT DISCLAIMER:__ This data set contains text and images directly extracted and available from Twitter. The content of these post does not reflect IATA's opinion or position in any matter. Therefore IATA declines any responsibility for any obscene or innappropiate content included in this dataset.
+__IMPORTANT DISCLAIMER:__ __The information contained in this data set has been posted by independent individuals or companies on publicly available Twitter pages. IATA makes no representations or warranties concerning the accuracy of the information posted.__
 
 __File(s):__<br>
 * [Google Drive](https://drive.google.com/drive/folders/170Fp1eqXnptDao1Lwd5LRZVRZ-H5ryEu?usp=sharing)<br>
