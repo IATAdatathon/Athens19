@@ -59,13 +59,55 @@ For more information go to: www.iata.org/datathon
 >**A:** Participants can opt to compete individually or in groups, from their own organization or mixed corporations. In order to increase the efficiency of the event logistics and allow more time for the presentations, IATA will contact <br>
 
 **Q:** Can the participants assume that intellectual property ownership of any algorithms, visualizations etc. stay with the teams that created them?<br>
->**A:** (response coming soon)<br>
+>**A:** Code and IP remains with participants. However, IATA and the industry can use the proposed solutions as inspiration for future developments. <br>
 
 **Q:** Will we send the recording session?<br>
->**A:** (response coming soon)<br>
+>**A:** Audio failed and hence not shared. Instead we are posting the Q&A through this GitHub chanel.<br>
 
 **Q:** For the five-minute presentation – who is the audience? Technical data scientist or business people?<br>
->**A:** (response coming soon)<br>
+>**A:** Five minutes is tentative and we might need to reduce the time for presentions due to the anticipate very large number of teams. Audience will be the Datathon participants, Sponsors, Jury, some IATA Management and if agenda allows industry partners present in Athens.<br>
+
+------------------------------------
+## Webinar 2:
+
+**Q:** Is the provided data being final? 
+>**A:** Final data has been provided and moved into <a href="https://drive.google.com/drive/folders/16rVqW4TR3eQJ_1SFy7uBzGYCAGF3657k?usp=sharing"><b>GOOGLE DRIVE</b></a>. 
+Note that following suggestions from participants, we have enhanced some of the datasets:
+* Departures/Arrival: Defined delays and added Departure and Arrivels Status labels to v2.
+* GADM: Added an additional 4K dataset that can be used for testing the modules trained with the 20K dataset.
+* Twitter: Added dataset of tweets containing Airport/Airline's hastags.
+
+**Q:** In the sample data, there was no data in English 
+>**A:** Non-English wording can be either ignored, programatically translated or analyzed through multilanguage word processing. 
+
+**Q:** Will there be more data? 
+>**A:** Data provided is final. However participants are welcome to include their own relevant additional data.
+
+**Q:** Will the labels be provided on-site? 
+>**A:** If by label is referred to define Delays and label the dataset, this has been done and published. GADM and Twitter will not be labeled.
+
+**Q:** Do you confirm that the data is provided for a limited list of airports? Yes 
+>**A:** Departure, Arrival and METAR data contains data for the following airports. 
+Airports:<br>
+ATH, BVA, CDG, CDG-ORY-BVA, EWR, FRA, IBZ, JFK, LAX, LCY, LGA, LGW, LHR, LTN, MIA, PMI, SEN, SFO, SYD
+
+**Q:** “accuracy of the algorithm – will IATA provide a “testing data set” at the Datathon for participants using our model and the measure the errors of our predictions? 
+>**A:** 
+
+**Q:** Some fields are not easy to understand: would it be possible to get a description?  
+>**A:** please contact us through datathon@iata.org and we will note and clarify to all participants.
+
+**Q:** On challenge 2: Some instances have multiple labels, is it meant to be like that?  
+>**A:** On AGDM dataset? Yes. These labels are the meta data of the incidents which may apply to multiple categories.
+
+**Q:** Is it an open challenge? Will participants be able to call some of their specialists that might not be on-site? Participants may work with their specialists before the event, however, during the Datathon, they would have to work with the team that is present on-site. 
+>**A:** 
+
+
+
+
+
+
 
 ![THANK YOU](https://github.com/IATAdatathon/Athens19/blob/master/Webinar/img/Slide13.JPG?raw=true)
 
